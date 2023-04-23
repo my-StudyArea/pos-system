@@ -1,0 +1,61 @@
+* [33md06d0e1[m[33m ([m[1;36mHEAD -> [m[1;32mdasun[m[33m)[m 2nd commit
+[31m|[m A	.idea/dataSources.xml
+[31m|[m A	.idea/sqldialects.xml
+[31m|[m A	application.properties
+[31m|[m A	src/main/java/ik/ijse/dep10/pos/db/DBConnection.java
+[31m|[m A	src/main/resources/schema.sql
+* [33m0af830a[m[33m ([m[1;31morigin/dasun[m[33m)[m Commit-01
+[31m|[m M	src/main/java/ik/ijse/dep10/pos/controller/AdminLoginController.java
+[31m|[m M	src/main/java/ik/ijse/dep10/pos/controller/LoginPageController.java
+[31m|[m A	src/main/resources/images/Resturent Name.jpg
+[31m|[m A	src/main/resources/images/about.png
+[31m|[m A	src/main/resources/images/database2.png
+[31m|[m A	src/main/resources/images/icons8-male-user-100.png
+[31m|[m A	src/main/resources/images/lock.png
+[31m|[m A	src/main/resources/images/pos3.png
+[31m|[m A	src/main/resources/images/report2.jpg
+[31m|[m A	src/main/resources/images/settings2.jpg
+[31m|[m A	src/main/resources/images/user.png
+[31m|[m A	src/main/resources/style/StyleClass.css
+[31m|[m M	src/main/resources/view/AdminLoging.fxml
+[31m|[m M	src/main/resources/view/LoginPage.fxml
+[31m|[m M	src/main/resources/view/MainView.fxml
+[31m|[m M	src/main/resources/view/SalesView.fxml
+[31m|[m * [33m19d045d[m[33m ([m[1;31morigin/tharuka[m[33m)[m test commit
+[31m|[m [32m|[m A	src/main/java/ik/ijse/dep10/pos/controller/ManageDatabaseViewController.java
+[31m|[m [32m|[m M	src/main/resources/view/AdminLoging.fxml
+[31m|[m [32m|[m A	src/main/resources/view/ManageDatabaseView.fxml
+[31m|[m [32m|[m M	src/main/resources/view/SalesView.fxml
+[31m|[m * [33m64500ab[m saleview-intermediate
+[31m|[m [32m|[m M	src/main/resources/view/SalesView.fxml
+[31m|[m * [33ma16f610[m mainview ui design
+[31m|[m[31m/[m  
+[31m|[m   A	src/main/java/ik/ijse/dep10/pos/db/DBConnection.java
+[31m|[m   A	src/main/resources/images/about.png
+[31m|[m   A	src/main/resources/images/database2.png
+[31m|[m   A	src/main/resources/images/pos3.png
+[31m|[m   A	src/main/resources/images/report2.jpg
+[31m|[m   A	src/main/resources/images/settings2.jpg
+[31m|[m   A	src/main/resources/images/shopname.png
+[31m|[m   M	src/main/resources/view/AdminLoging.fxml
+[31m|[m   M	src/main/resources/view/MainView.fxml
+[31m|[m   M	src/main/resources/view/SalesView.fxml
+* [33ma38fd52[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Initial commit
+  A	.gitignore
+  A	.idea/.gitignore
+  A	.idea/encodings.xml
+  A	.idea/misc.xml
+  A	.idea/vcs.xml
+  A	pom.xml
+  A	src/main/java/ik/ijse/dep10/pos/AppInitializer.java
+  A	src/main/java/ik/ijse/dep10/pos/AppInitializerWrapper.java
+  A	src/main/java/ik/ijse/dep10/pos/controller/AdminLoginController.java
+  A	src/main/java/ik/ijse/dep10/pos/controller/LoginPageController.java
+  A	src/main/java/ik/ijse/dep10/pos/controller/MainViewController.java
+  A	src/main/java/ik/ijse/dep10/pos/controller/ManagementViewController.java
+  A	src/main/java/ik/ijse/dep10/pos/controller/SalesViewController.java
+  A	src/main/resources/view/AdminLoging.fxml
+  A	src/main/resources/view/LoginPage.fxml
+  A	src/main/resources/view/MainView.fxml
+  A	src/main/resources/view/ManagementView.fxml
+  A	src/main/resources/view/SalesView.fxml
